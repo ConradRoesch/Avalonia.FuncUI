@@ -8,7 +8,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Title>Avalonia FuncUI</Title>
     <PackageVersion>$(FuncUIVersion)</PackageVersion>
-    <Description>Develop cross-plattform MVU GUI Applications using F# and Avalonia!</Description>
+    <Description>Develop cross-platform MVU GUI Applications using F# and Avalonia!</Description>
     <PackageIcon>nuget_icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
